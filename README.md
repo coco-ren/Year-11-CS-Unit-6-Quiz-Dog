@@ -30,3 +30,6 @@ Inside the main method ...
 4. Call the <b>birthday</b> method and store this into a variable called <b>age</b>.
 5. Print out the contents of the variable called <b>age</b>. Use the <b>println</b> method to print.
 6. Print out the <b>current state</b> of the Dog object. That is, print the <b>reference</b> to the Dog object. This will automatically call the toString method. 
+
+
+Name: Coco
