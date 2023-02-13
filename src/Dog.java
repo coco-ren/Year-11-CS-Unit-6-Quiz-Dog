@@ -9,8 +9,8 @@ public class Dog {
     //constructor 1
     public Dog() {
         age = 0;
-        name = " ";
-        color = " ";
+        name = null;
+        color = null;
 
     }
 
